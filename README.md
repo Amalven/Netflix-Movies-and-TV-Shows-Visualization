@@ -4,7 +4,7 @@
 The visualization is about Netflix movies and Tv shows. Rshiny dashboard is created which answers the following.
 1. Netflix Timeline
 2. Did you know how much movies and TV shows are there in Netflix?
-3. Ever wondered what kind of Genres are famous in Netflix
+3. Ever wondered what kind of Genres are famous in Netflix?
 4. Choropleth map showing the popularity of Netflix in different Countries
 5. Bar chart of top five Directors in Netflix
 6. Tree map of different ratings given to the contents in Netflix
